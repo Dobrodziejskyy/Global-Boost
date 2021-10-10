@@ -10,8 +10,6 @@ Project to upgrade regular servers with a role icons etc.
 
 - [Galaktyka](https://discord.gg/tDdgaJJ)
 
----
-
 *If you want **your server** to be on the supported list, write to me on Discord* - Dobrodziejskyy#4401
 
 ## How to install correctly??
