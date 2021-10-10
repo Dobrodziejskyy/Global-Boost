@@ -10,7 +10,7 @@ Project to upgrade regular servers with a role icons etc.
 
 ***Servers with support:***
 
-● [Galaktyka](https://discord.gg/tDdgaJJ)
+- [Galaktyka](https://discord.gg/tDdgaJJ)
 
 ---
 
