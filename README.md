@@ -1,11 +1,23 @@
 # **All discord free**
 
->Pliki zmieniający serwery non-boosted zupełnie jakby go miały
+> Projekt mający na celu ulepszenie zwykłych serwerów o ikony ról itd.
+>
+> Project to upgrade regular servers with a banner, animated server image, role icons etc.
 
-***●Serwery które mają wsparcie:***
-> Galaktyka
+---
 
-***●Użytkownicy ze wsparciem:***
-> Dobrodziejskyy#4401 - Paymon#2893 - Marinette#2523 - DEDE#3777 - crisuuubtkj#2404
+***Serwery ze wsparciem / Servers with support:***
 
-*Jeśli chcesz abyś **ty / twój serwer** znalazł się na liście wspieranych napisz do mnie na Discord* - Dobrodziej#4401
+● [Galaktyka](https://discord.gg/tDdgaJJ)
+
+---
+
+> *Jeśli chcesz abyś **twój serwer** znalazł się na liście wspieranych napisz do mnie na Discord* - Dobrodziejskyy#4401
+> 
+> *If you want **your server** to be on the supported list, write to me on Discord* - Dobrodziejskyy#4401
+
+---
+
+### Jak prawidłowo zainstalować? / How to install correctly??
+
+Tutorial *coming soon*
