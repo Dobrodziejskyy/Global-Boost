@@ -1,4 +1,4 @@
-### Ultra-Discord
+### All discord free
 
 >Pliki zmieniający serwery non-boosted zupełnie jakby go miały
 
