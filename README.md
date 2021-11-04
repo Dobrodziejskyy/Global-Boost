@@ -2,6 +2,8 @@
 
 ## **Global-Boost v0.0.4 - 04.11.2021r**
 ### [**Download**](https://www.mediafire.com/file/l7ocu8wfjm6u5lm/Global_Boost_v0.0.4.rar/file)
+> Plik zabezpieczony jest hasłem ***BoostGlobal***
+
 ### **——— Changelog v0.0.4 ———**
 - Poprawki stabilności plików konfiguracyjnych
 - Zmiana na najnowsze wersje pluginów
