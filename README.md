@@ -8,9 +8,6 @@
 - Zbugowane odznaki zostały naprawione
 - Dodano odznaki dla: **Winter Blizzard** | **Grandient Level**
 
-### **❖Nowość❖**
-- Wsparcie dla ustawień kanałów
-
 > ##### ***Wkrótce pojawi się obsługa ustawień użytkownika***
 
 ## ***Servers with support:***
