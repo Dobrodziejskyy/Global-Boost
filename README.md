@@ -1,13 +1,12 @@
 ![](https://cdn.discordapp.com/attachments/901198788486631514/901198845852131448/Global-Boost.png)
 
 ## **Global-Boost v0.0.4 - 04.11.2021r**
-### [**Download**](https://www.mediafire.com/file/l7ocu8wfjm6u5lm/Global_Boost_v0.0.4.rar/file)
+### [**Download**](https://www.mediafire.com/file/psfrwweuu32b9w1/Global_Boost_v0.0.5.rar/file)
 > Plik zabezpieczony jest hasłem ***BoostGlobal***
 
-### **——— Changelog v0.0.4 ———**
-- Poprawki stabilności plików konfiguracyjnych
-- Zmiana na najnowsze wersje pluginów
-- Odznaki dla ról Sezonowych
+### **——— Changelog v0.0.5 ———**
+- Zbugowane odznaki zostały naprawione
+- Dodano odznaki dla: **Winter Blizzard** | **Grandient Level**
 
 ### **❖Nowość❖**
 - Wsparcie dla ustawień kanałów
