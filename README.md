@@ -1,7 +1,7 @@
 ![](https://cdn.discordapp.com/attachments/901198788486631514/901198845852131448/Global-Boost.png)
 
 ## **Global-Boost v0.0.6 - 20.12.2021r**
-### [**Download**](https://www.mediafire.com/file/999in5zpteghyne/Global_Boost_v0.0.6.zip/file)
+### [**Download**](https://www.mediafire.com/file/k7m5m31npamj5mu/Global_Boost_v0.0.6.rar/file)
 > Plik zabezpieczony jest hasłem ***BoostGlobal***
 
 ### ——— Changelog v0.0.6  ———
