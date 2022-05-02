@@ -7,4 +7,4 @@
 > ##### ***Wkrótce pojawi się obsługa ustawień użytkownika***
 
 ## ***Servers with support:***
-- [Galaktyka](https://discord.gg/tDdgaJJ)
+- [Dobrodziejnia](https://discord.gg/tDdgaJJ)
