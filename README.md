@@ -9,9 +9,10 @@
 ## Jak prawidłowo dodać:
 
 1. Zainstaluj [**Better Discord**](https://betterdiscord.app)
-2. Pobierz plugin [**Edit Roles**](https://betterdiscord.app/plugin/EditRoles) oraz [**Edit Servers**](https://betterdiscord.app/plugin/EditServers)
+2. Pobierz wtyczki [**Edit Roles**](https://betterdiscord.app/plugin/EditRoles) oraz [**Edit Servers**](https://betterdiscord.app/plugin/EditServers)
 3. Pobierz mój **plik konfiguracyjny** *( udostępnie po ogarnięciu problemów )*
-4. Wrzuć pluginy oraz plik konfiguracyjny do `C:\Users\(Nazwa użytkownika)\AppData\Roaming\BetterDiscord\plugins`
+4. Wrzuć wtyczki oraz plik konfiguracyjny do `C:\Users\(Nazwa użytkownika)\AppData\Roaming\BetterDiscord\plugins`
+5. Wejdź w ustawienia Discord do zakładki `Wtyczki`, włącz obie a następnie zrestartuj Discord `włączając go ponownie` lub `Windows+R`
 
 ### ***Serwery ze wsparciem:***
 - [Dobrodziejnia](https://discord.gg/tDdgaJJ)
