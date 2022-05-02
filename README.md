@@ -6,5 +6,8 @@
 ![image](https://user-images.githubusercontent.com/69461129/166230417-5e0cdffe-917d-4761-b4cc-427429314f5d.png)
 ![image](https://user-images.githubusercontent.com/69461129/166230480-ace96ac0-eccf-4b94-8757-b9cc9757dba8.png)
 
-## ***Serwery ze wsparciem:***
+## Jak prawidłowo dodać:
+1. 
+
+### ***Serwery ze wsparciem:***
 - [Dobrodziejnia](https://discord.gg/tDdgaJJ)
