@@ -3,5 +3,5 @@
 ### Projekt wróci niedługo
 Niewielkie problemy
 
-## ***Servers with support:***
+## ***Serwery ze wsparciem:***
 - [Dobrodziejnia](https://discord.gg/tDdgaJJ)
