@@ -2,7 +2,5 @@
 
 ### :+1: Projekt wkrótce wróci
 
-> ###### Niewielkie problemy
-
 ## ***Serwery ze wsparciem:***
 - [Dobrodziejnia](https://discord.gg/tDdgaJJ)
