@@ -4,7 +4,7 @@
 
 > ###### Niewielkie problemy
 
-- [x] #739
+- [ ] 
 
 ## ***Serwery ze wsparciem:***
 - [Dobrodziejnia](https://discord.gg/tDdgaJJ)
