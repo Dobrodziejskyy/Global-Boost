@@ -6,6 +6,8 @@
 ![image](https://user-images.githubusercontent.com/69461129/166230417-5e0cdffe-917d-4761-b4cc-427429314f5d.png)
 ![image](https://user-images.githubusercontent.com/69461129/166230480-ace96ac0-eccf-4b94-8757-b9cc9757dba8.png)
 
+![image](https://user-images.githubusercontent.com/69461129/166232021-9d470bc4-664e-49a0-a09b-b40e6772884d.png)
+
 ## Jak prawidłowo dodać:
 
 1. Zainstaluj [**Better Discord**](https://betterdiscord.app)
