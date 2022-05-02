@@ -4,7 +4,5 @@
 
 > ###### Niewielkie problemy
 
-- [ ] test
-
 ## ***Serwery ze wsparciem:***
 - [Dobrodziejnia](https://discord.gg/tDdgaJJ)
