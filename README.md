@@ -7,10 +7,9 @@
 ![image](https://user-images.githubusercontent.com/69461129/166230480-ace96ac0-eccf-4b94-8757-b9cc9757dba8.png)
 
 ## Jak prawidłowo dodać:
-```
-**1.** ---
-**2.** Pobierz plugin [**Edit Roles**](https://betterdiscord.app/plugin/EditRoles) oraz
-```
+
+1. ---
+2. Pobierz plugin [**Edit Roles**](https://betterdiscord.app/plugin/EditRoles) oraz [**Edit Servers**](https://betterdiscord.app/plugin/EditServers)
 
 ### ***Serwery ze wsparciem:***
 - [Dobrodziejnia](https://discord.gg/tDdgaJJ)
