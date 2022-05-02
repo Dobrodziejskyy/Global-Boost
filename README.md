@@ -18,7 +18,7 @@
 2. Pobierz wtyczki [**Edit Roles**](https://betterdiscord.app/plugin/EditRoles) oraz [**Edit Servers**](https://betterdiscord.app/plugin/EditServers)
 3. Pobierz moje [**pliki konfiguracyjne**](https://www.mediafire.com/file/m5i5x8cnls6clfq/Pliki_Konfiguracyjne.zip/file) *( haslo jak zawsze `BoostGlobal`)*
 4. Wrzuć wtyczki oraz pliki konfiguracyjne do `C:\Users\(Nazwa użytkownika)\AppData\Roaming\BetterDiscord\plugins`
-5. Wejdź w ustawienia Discord do zakładki `Wtyczki`, włącz obie a następnie zrestartuj Discord `włączając go ponownie` lub `Windows+R`
+5. Wejdź w ustawienia Discord do zakładki `Wtyczki`, włącz obie a następnie zrestartuj Discord `włączając go ponownie` lub `ctrl+R`
 
 ### ***Serwery ze wsparciem:***
 - [Dobrodziejnia](https://discord.gg/tDdgaJJ)
