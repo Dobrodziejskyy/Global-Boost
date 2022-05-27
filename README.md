@@ -1,6 +1,4 @@
-![](https://cdn.discordapp.com/attachments/901198788486631514/901198845852131448/Global-Boost.png)
-
-### v0.1.1 - 22.05.2022r 00:34
+![gitub](https://user-images.githubusercontent.com/69461129/170731028-358cb550-ed3e-4b70-bbf5-0f83f4b7523b.png)
 
 ![image](https://user-images.githubusercontent.com/69461129/166230359-8554a148-fc7c-4325-a50e-ca5026493f23.png)
 ![image](https://user-images.githubusercontent.com/69461129/166232112-ce98bc54-bddb-424f-b60c-adc0e803a98a.png)
