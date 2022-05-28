@@ -1,4 +1,4 @@
-![gitub](https://user-images.githubusercontent.com/69461129/170731028-358cb550-ed3e-4b70-bbf5-0f83f4b7523b.png)
+![gitub](https://user-images.githubusercontent.com/69461129/170835793-36ad7e7c-c8cc-43d7-88c2-aed9b534773c.png)
 
 ![baner1](https://user-images.githubusercontent.com/69461129/170835475-a2d6e943-09e6-4584-a08d-0ed40ca740fd.png)
 
