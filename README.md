@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/69461129/166232167-c55d5195-533a-4b0e-8e1c-80895cb2ec73.png)
 ![image](https://user-images.githubusercontent.com/69461129/166232183-584aaa74-ea03-4b5a-9038-603fdb157dc0.png)
 
-![banergit](https://user-images.githubusercontent.com/69461129/170832704-5a8149c2-4c52-4109-aad4-e288c2f43c77.png)
+![baner1](https://user-images.githubusercontent.com/69461129/170835475-a2d6e943-09e6-4584-a08d-0ed40ca740fd.png)
 
 ## Jak prawidłowo dodać:
 
