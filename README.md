@@ -1,13 +1,5 @@
 ![gitub](https://user-images.githubusercontent.com/69461129/170731028-358cb550-ed3e-4b70-bbf5-0f83f4b7523b.png)
 
-![image](https://user-images.githubusercontent.com/69461129/166230359-8554a148-fc7c-4325-a50e-ca5026493f23.png)
-![image](https://user-images.githubusercontent.com/69461129/166232112-ce98bc54-bddb-424f-b60c-adc0e803a98a.png)
-![image](https://user-images.githubusercontent.com/69461129/166232142-1de98909-35e7-43ab-96ad-8e2c8666913e.png)
-![image](https://user-images.githubusercontent.com/69461129/166230417-5e0cdffe-917d-4761-b4cc-427429314f5d.png)
-![image](https://user-images.githubusercontent.com/69461129/166230480-ace96ac0-eccf-4b94-8757-b9cc9757dba8.png)
-![image](https://user-images.githubusercontent.com/69461129/166232167-c55d5195-533a-4b0e-8e1c-80895cb2ec73.png)
-![image](https://user-images.githubusercontent.com/69461129/166232183-584aaa74-ea03-4b5a-9038-603fdb157dc0.png)
-
 ![baner1](https://user-images.githubusercontent.com/69461129/170835475-a2d6e943-09e6-4584-a08d-0ed40ca740fd.png)
 
 ## Jak prawidłowo dodać:
