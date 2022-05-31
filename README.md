@@ -2,6 +2,9 @@
 
 ![baner1](https://user-images.githubusercontent.com/69461129/170835475-a2d6e943-09e6-4584-a08d-0ed40ca740fd.png)
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC594EF_vj4uAMYxOVGsFd1Q?label=YouTube&logo=YouTube&logoColor=red&style=social)
+![Twitch Status](https://img.shields.io/twitch/status/dobrodziejskyy1?label=Twitch&logo=Twitch&style=social)
+
 ## Jak prawidłowo dodać:
 
 1. Zainstaluj [**Better Discord**](https://betterdiscord.app)
