@@ -4,6 +4,7 @@
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC594EF_vj4uAMYxOVGsFd1Q?label=YouTube&logo=YouTube&logoColor=red&style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/dobrodziejskyy1?label=Twitch&logo=Twitch&style=social)
+[![support](https://user-images.githubusercontent.com/69461129/172025462-c4eb6d85-b3b7-469d-bfbc-734ecbe18a92.png)](https://discord.gg/vqj8mVZ7Bf)
 
 ## Jak prawidłowo dodać:
 
