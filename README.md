@@ -10,7 +10,7 @@
 
 1. Zainstaluj [**Better Discord**](https://betterdiscord.app)
 2. Pobierz wtyczki [**Edit Roles**](https://betterdiscord.app/plugin/EditRoles) , [**Edit Servers**](https://betterdiscord.app/plugin/EditServers) oraz [**Edit Users**](https://betterdiscord.app/plugin/EditUsers)
-3. Pobierz moje [**pliki konfiguracyjne**](https://www.mediafire.com/file/2ok49yy6g2fhfa4/Pliki+Konfiguracyjne+0.1.3.rar/file) *( haslo jak zawsze `BoostGlobal`)*
+3. Pobierz moje [**pliki konfiguracyjne**](https://www.mediafire.com/file/1bb02sw4f3ksowc/Pliki+Konfiguracyjne+0.2.0.rar/file) *( haslo jak zawsze `BoostGlobal`)*
 4. Wrzuć wtyczki oraz pliki konfiguracyjne do `C:\Users\(Nazwa użytkownika)\AppData\Roaming\BetterDiscord\plugins`
 5. Wejdź w ustawienia Discord do zakładki `Wtyczki`, włącz wszystkie a następnie zrestartuj Discord `włączając go ponownie` lub `ctrl+R`
 
